@@ -1,0 +1,73 @@
+1629771470645	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jaiso\\AppData\\Local\\Temp\\rust_mozprofileZWWTTk"
+1629771471504	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jaiso\\AppData\\Local\\Temp\\rust_mozprofileZWWTTk\\search.json.mozlz4", (void 0)))
+1629771474210	Marionette	INFO	Listening on port 57580
+1629771474279	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.99f4f9824125bfd8df54.js, line 55: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.99f4f9824125bfd8df54.js, line 55: unreachable code after return statement
+1629771739864	Marionette	INFO	Stopped listening on port 57580
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629771957192	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jaiso\\AppData\\Local\\Temp\\rust_mozprofilevuYdBB"
+1629771957745	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jaiso\\AppData\\Local\\Temp\\rust_mozprofilevuYdBB\\search.json.mozlz4", (void 0)))
+1629771959969	Marionette	INFO	Listening on port 59367
+1629771960372	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.99f4f9824125bfd8df54.js, line 55: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.99f4f9824125bfd8df54.js, line 55: unreachable code after return statement
+1629772013505	Marionette	INFO	Stopped listening on port 59367
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629772370511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jaiso\\AppData\\Local\\Temp\\rust_mozprofilekdVc2H"
+1629772370840	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jaiso\\AppData\\Local\\Temp\\rust_mozprofilekdVc2H\\search.json.mozlz4", (void 0)))
+1629772373027	Marionette	INFO	Listening on port 49913
+1629772373140	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.99f4f9824125bfd8df54.js, line 55: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.99f4f9824125bfd8df54.js, line 55: unreachable code after return statement
+1629772448433	Marionette	INFO	Stopped listening on port 49913
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629772621765	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jaiso\\AppData\\Local\\Temp\\rust_mozprofileXIVq3N"
+1629772622097	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jaiso\\AppData\\Local\\Temp\\rust_mozprofileXIVq3N\\search.json.mozlz4", (void 0)))
+1629772624189	Marionette	INFO	Listening on port 53126
+1629772624403	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.99f4f9824125bfd8df54.js, line 55: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.99f4f9824125bfd8df54.js, line 55: unreachable code after return statement
+1629772637788	Marionette	INFO	Stopped listening on port 53126
+1629772997396	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jaiso\\AppData\\Local\\Temp\\rust_mozprofileUSSFVt"
+1629772997743	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jaiso\\AppData\\Local\\Temp\\rust_mozprofileUSSFVt\\search.json.mozlz4", (void 0)))
+1629773000002	Marionette	INFO	Listening on port 52252
+1629773000095	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.99f4f9824125bfd8df54.js, line 55: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.99f4f9824125bfd8df54.js, line 55: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629773019531	Marionette	INFO	Stopped listening on port 52252
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629773029089	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jaiso\\AppData\\Local\\Temp\\rust_mozprofileFkewyM"
+1629773029418	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jaiso\\AppData\\Local\\Temp\\rust_mozprofileFkewyM\\search.json.mozlz4", (void 0)))
+1629773031513	Marionette	INFO	Listening on port 55871
+1629773031711	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.99f4f9824125bfd8df54.js, line 55: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.99f4f9824125bfd8df54.js, line 55: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1629773191315	Marionette	INFO	Stopped listening on port 55871
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
